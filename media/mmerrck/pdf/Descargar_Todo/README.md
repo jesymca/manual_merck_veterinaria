@@ -10,13 +10,14 @@ Este archivo fue dividido en fragmentos de menor tamaño 50mb para hacerlo compa
 
 Luego debe ubicar dentro de los archivos descargados el archivo que tenga la terminación .7z.001
 
-:arrow_right: :package:A.7z.001 :arrow_left:
+:package:A.7z.001 :arrow_left:
 
 :package:A.7z.002
 
 :package:A.7z.003
 
-Ese archivo debes extraer su contenido.
+Ese archivo debes seleccionarlo y extraer su contenido.
+
 Lo que sucederá es que todos los archivos se unificaran y formaran el archivo que se requiere.
 
 >J.E SUMINISTROS Y MAS, C.A.     
