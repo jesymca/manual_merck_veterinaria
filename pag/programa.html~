@@ -1,0 +1,23 @@
+<html>
+<header>
+<link href="css/estilos.css" type="text/css" rel="stylesheet">	
+</header>
+<body class="clase1">
+<table class="clase1">
+<tr>
+<td align="center" valign="middle">
+<p><strong><h2>Incluimos en este Manual una aplicacion ejecutable del Manual Merk de Medicina Veterinaria en Idioma Ingles.<br>Este programa solo se ejecuta en ambiente Windows o puede ser emulada desde otros sistemas operativos.</h2></strong></p>
+<img src="../media/imagen/img/portadas/programa.png" width="50%" alt="" /><br>ISBN: 0-911910-29-8</p>
+<table class="clase1"><tr><td align="center" valign="middle">
+<a href="../media/programa_mm/programa_mm.7z" target="_blank" class="clase3" title="Descargas de Libros EPUB">DESCARGUE EL PROGRAMA MANUAL MERCK DE VETERINARIA INGLES</a>
+</td></tr></table>
+</td>
+</tr>
+
+</table>
+
+<h1>Sobre las Descargas</h1>
+Todas Nuestros productos están comprimidos en formato 7Z En el mercado hay cualquier cantidad de programas que permiten descomprimir este tipo de archivos como si se tratara de un archivo ZIP o RAR pero con la diferencia que son mucho mas seguros para usted a la hora de efectuar sus descargas.<br /> Quienes tengan Instalado WinZip o WinRar perfectamente podrán descomprimir sus archivos, para quienes no tengan instalado programas para descomprimir le recomendamos los siguientes programas que son OpenSource:<br /><br clear="all" /><a href="http://www.7-zip.org/" target="_blank" class="btn btn-default" title="7Zip">7Zip</a><br /><br clear="all" /><a href="http://www.peazip.org/" target="_blank" name="PeaZip" class="btn btn-default" title="PeaZip">PeaZip</a></div>
+
+</body>
+</html>
