@@ -10,6 +10,8 @@ Este archivo fue dividido en fragmentos de menor tamaño 50mb para hacerlo compa
 
 Luego debe ubicar dentro de los archivos descargados el archivo que tenga la terminación .7z.001
 
+## Ejemplo :package:
+
 :package:A.7z.001 :arrow_left:
 
 :package:A.7z.002
