@@ -4,13 +4,15 @@ Este curso fue liberado para ser distribuido en la plataforma de GitHub
 
 Ahora debe tener instalado el programa 7zip para poder manipular el tipo de archivo 7z eso lo puedes hacer desde la web https://www.7-zip.org/
 
-Este archivo fue dividido en fragmentos de menor tamaño 50mb para hacerlo compatible con el sistema GitHub y ahora para poder acceder al archivo debes buscar la ruta de los archivo desde tu explorador de archivos o gestor de Archivos, también puedes descargar todo el contenido de la carpeta de nombre:
+## Sobre los archivos en la carpeta :open_file_folder:
 
-:open_file_folder: Descargar_Todo
+Este archivo fue dividido en fragmentos de menor tamaño 50mb para hacerlo compatible con el sistema GitHub y ahora para poder acceder al archivo debes buscar la ruta de los archivo desde tu explorador de archivos o gestor de Archivos, también puedes descargar todo el contenido de la carpeta de nombre Descargar_Todo.
+
+:open_file_folder: Descargar_Todo :arrow_left:
 
 Luego debe ubicar dentro de los archivos descargados el archivo que tenga la terminación .7z.001
 
-## Ejemplo :package:
+## Como debe descomprimir :package:
 
 Al descargar todos los archivos tendras algo como esto:
 
