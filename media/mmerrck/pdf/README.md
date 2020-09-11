@@ -4,7 +4,7 @@ J-29444489-0                    *
 www.jesuministrosymas.com.ve    *
 *********************************
 
-#Informacion importante
+#Información importante
 
 Este curso fue liberado para ser distribuido en la plataforma de GitHub
 
