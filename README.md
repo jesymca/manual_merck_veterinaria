@@ -1,16 +1,16 @@
 ![JESYMCA](http://www.jesuministrosymas.com.ve/LOGO.png)
 
-# Manual Merck de Medicina Veterinaria
+# Manual Merck de Medicina Veterinaria :cow::ram::water_buffalo::pig::rooster::dog::cat::horse::rabbit::wolf:
 Manual Merck de Medicina Veterinaria digital.
 
 ![Portada](media/imagen/popup/VENTANA_SEGURIDAD_3.png?raw=true "Portada")
 
 
-## De que se trata
+## De que se trata :earth_americas:
 
-En esta oportunidad traemos la liberacion de todo el codigo y archivos de la compilacion digital del manual Merck de Medicina Veterinaria y un aplicativo disponible solo para Windows y que puede ser emulado desde plataformas Linux desde Wine
+En esta oportunidad traemos la liberación de todo el código y archivos de la compilación digital del manual Merck de Medicina Veterinaria y un aplicativo disponible solo para Windows y que puede ser emulado desde plataformas Linux desde Wine
 
-## Actualizable
+## Actualizable :cloud:
 
 La liberacion de este particular se ha hecho desde la plataforma GitHub con la finalidad de que estudiantes de habla hispana puedan acceder a esta informacion.
 
