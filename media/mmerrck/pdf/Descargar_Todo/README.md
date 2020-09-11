@@ -12,7 +12,9 @@ Luego debe ubicar dentro de los archivos descargados el archivo que tenga la ter
 
 ## Ejemplo :package:
 
-:package:A.7z.001 :arrow_left:
+Al descargar todos los archivos tendras algo como esto:
+
+:package:A.7z.001 :arrow_left: Debes seleccionar este archivo.
 
 :package:A.7z.002
 
