@@ -1,8 +1,7 @@
-*********************************
-J.E SUMINISTROS Y MAS, C.A.     *
-J-29444489-0                    *
-www.jesuministrosymas.com.ve    *
-*********************************
+>J.E SUMINISTROS Y MAS, C.A.     
+>J-29444489-0                    
+>www.jesuministrosymas.com.ve    
+
 
 #Información importante
 
