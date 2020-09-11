@@ -13,9 +13,10 @@ En esta oportunidad traemos la liberación de todo el código y archivos de la c
 
 ## Actualizable :cloud:
 
-La liberacion de este particular se ha hecho desde la plataforma GitHub con la finalidad de que estudiantes de habla hispana puedan acceder a esta informacion.
+La liberación de este particular se ha hecho desde la plataforma GitHub con la finalidad de que estudiantes de habla hispana puedan acceder a esta información.
 
-
+## Otros Proyectos
+Pueden acceder directamente a nuestra lista de repositorios.
 
 
 
