@@ -1,7 +1,7 @@
 ![JESYMCA](http://www.jesuministrosymas.com.ve/LOGO.png)
 
-# Manual Merck de Medicina Veterinaria
-#:cow::ram::water_buffalo::pig::rooster::dog::cat::horse::rabbit::wolf:
+# Manual Merck de Medicina Veterinaria:cow::ram::water_buffalo::pig::rooster::dog::cat::horse::rabbit::wolf:
+
 Manual Merck de Medicina Veterinaria digital.
 
 ![Portada](media/imagen/popup/VENTANA_SEGURIDAD_3.png?raw=true "Portada")
