@@ -26,7 +26,7 @@ https://github.com/jesymca?tab=repositories
 
 ## Apoya al desarrollador
 
-Puedes hacerlo mediante la plataforma PayPal directamenteÑ
+Puedes hacerlo mediante la plataforma PayPal directamente:
 
 https://www.paypal.me/tusintercambiosvzla
 
