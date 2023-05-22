@@ -26,11 +26,11 @@ https://github.com/jesymca?tab=repositories
 
 ## Apoya al desarrollador
 
-Puedes hacerlo mediante la plataforma PayPal directamente:
+Puedes hacerlo mediante la plataforma Binance Zinli o Paypal:
 
-https://www.paypal.me/tusintercambiosvzla
+https://www.jesuministrosymas.com.ve/pagos
 
-De esta manera estaras apoyando para continuar haciendo contenido similar o a que sean liberados los contenidos de los otros repositorios.
+De esta manera estaras apoyando para continuar haciendo contenido similar o a que sean liberados los contenidos de otros repositorios.
 
 
 
