@@ -1,4 +1,4 @@
-![JESYMCA](http://www.jesuministrosymas.com.ve/LOGO.png)
+![JESYMCA](https://i.imgur.com/98F3SUI.png)
 
 # Manual Merck de Medicina Veterinaria :cow::ram::water_buffalo::pig::rooster::dog::cat::horse::rabbit::wolf:
 
